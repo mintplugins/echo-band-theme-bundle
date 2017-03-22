@@ -4,7 +4,7 @@ Donate link: http://mintplugins.com/
 Tags: page, builder, stacks, bricks
 Requires at least: 3.5
 Tested up to: 4.7
-Stable tag: 1.0.0.0
+Stable tag: 1.0.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,18 @@ See full instructions at http://mintplugins.com/doc/echo-band-theme-bundle
 
 
 == Changelog ==
+
+= 1.0.0.4 March 22, 2017
+Remove WooCommerce auto install
+
+= 1.0.0.3 March 22, 2017
+Add woo chck and stack thumbnails
+
+= 1.0.0.2 March 22, 2017
+Image Compression.
+
+= 1.0.0.1 March 22, 2017
+Hook up Stack templates.
 
 = 1.0.0.0 = March 21, 2017
 * Original release
