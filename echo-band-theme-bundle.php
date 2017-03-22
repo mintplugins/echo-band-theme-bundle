@@ -268,6 +268,7 @@ function echo_band_theme_bundle_dependencies_array(){
 		'mp_customizer_backups_textdomain' => 'mp-customizer-backups-check.php',
 		'mp_easy_icons_textdomain' => 'mp-easy-icons-check.php',
 		'mp_events_textdomain' => 'mp-events-check.php',
+		'WC' => 'woocommerce-check.php',
 
 		//Pasted from Stack Template's Utility File:
 		'mp_stacks_embedsgrid_textdomain' => 'mp-stacks-embedsgrid-check.php',
