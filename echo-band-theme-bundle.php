@@ -3,7 +3,7 @@
 Plugin Name: Echo Band Theme Bundle
 Plugin URI: https://mintplugins.com
 Description: A bundle of Stack Templates, Plugins, a Theme, and everything needed for the Echo Band Theme Experience.
-Version: 1.0.0.4
+Version: 1.0.0.5
 Author: Mint Plugins
 Author URI: http://mintplugins.com
 Text Domain: echo_band_theme_bundle
@@ -34,7 +34,7 @@ License: GPL2
 */
 // Plugin version
 if( !defined( 'ECHO_BAND_THEME_BUNDLE_VERSION' ) )
-	define( 'ECHO_BAND_THEME_BUNDLE_VERSION', '1.0.0.4' );
+	define( 'ECHO_BAND_THEME_BUNDLE_VERSION', '1.0.0.5' );
 
 // Plugin Folder URL
 if( !defined( 'ECHO_BAND_THEME_BUNDLE_PLUGIN_URL' ) )
