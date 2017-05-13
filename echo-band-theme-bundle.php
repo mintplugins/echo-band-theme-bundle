@@ -262,12 +262,12 @@ function echo_band_theme_bundle_dependencies_array(){
 		'mp_core_textdomain' => 'mp-core-check.php',
 		'mp_stacks_textdomain' => 'mp-stacks-check.php',
 		'mp_knapstack_textdomain' => 'mp-knapstack-check.php',
-		'echo_band_theme_bundle_child_theme_exists' => 'echo-band-theme-bundle-child-theme.php',
 		'mp_menu_textdomain' => 'mp-menu-check.php',
 		'mp_buttons_textdomain' => 'mp-buttons-check.php',
 		'mp_customizer_backups_textdomain' => 'mp-customizer-backups-check.php',
 		'mp_easy_icons_textdomain' => 'mp-easy-icons-check.php',
 		'mp_events_textdomain' => 'mp-events-check.php',
+		'echo_band_theme_bundle_child_theme_exists' => 'echo-band-theme-bundle-child-theme.php',
 		//'WC' => 'woocommerce-check.php',
 
 		//Pasted from Stack Template's Utility File:
